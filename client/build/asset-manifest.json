@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.631eea22.chunk.css",
+    "main.js": "/static/js/main.acaef415.chunk.js",
+    "main.js.map": "/static/js/main.acaef415.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dda038b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dda038b.js.map",
+    "static/css/2.6d5e3195.chunk.css": "/static/css/2.6d5e3195.chunk.css",
+    "static/js/2.522638cc.chunk.js": "/static/js/2.522638cc.chunk.js",
+    "static/js/2.522638cc.chunk.js.map": "/static/js/2.522638cc.chunk.js.map",
+    "static/css/3.d0542492.chunk.css": "/static/css/3.d0542492.chunk.css",
+    "static/js/3.bcd5d4af.chunk.js": "/static/js/3.bcd5d4af.chunk.js",
+    "static/js/3.bcd5d4af.chunk.js.map": "/static/js/3.bcd5d4af.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.789f672f49e03fc0f53708c62d8fb4ee.js": "/precache-manifest.789f672f49e03fc0f53708c62d8fb4ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6d5e3195.chunk.css.map": "/static/css/2.6d5e3195.chunk.css.map",
+    "static/css/3.d0542492.chunk.css.map": "/static/css/3.d0542492.chunk.css.map",
+    "static/css/main.631eea22.chunk.css.map": "/static/css/main.631eea22.chunk.css.map",
+    "static/media/android.svg": "/static/media/android.2994784f.svg",
+    "static/media/projector.css": "/static/media/code_women.904a2e11.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/c.svg": "/static/media/c.ff8f8ae7.svg",
+    "static/media/submit.css": "/static/media/folder.62ca06c2.svg",
+    "static/media/html.svg": "/static/media/html.e148643a.svg",
+    "static/media/java.svg": "/static/media/java.4513b611.svg",
+    "static/media/javascript.svg": "/static/media/javascript.738ab3c6.svg",
+    "static/media/node.svg": "/static/media/node.05108f13.svg",
+    "static/media/plagi.svg": "/static/media/plagi.492bea36.svg",
+    "static/media/python.svg": "/static/media/python.40b65d2f.svg",
+    "static/media/quality.svg": "/static/media/quality.25a19210.svg",
+    "static/media/footer.css": "/static/media/texture.5304b403.jpg",
+    "static/media/time.svg": "/static/media/time.23f4ec5e.svg",
+    "static/media/verified.svg": "/static/media/verified.a0af57c7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dda038b.js",
+    "static/css/2.6d5e3195.chunk.css",
+    "static/js/2.522638cc.chunk.js",
+    "static/css/main.631eea22.chunk.css",
+    "static/js/main.acaef415.chunk.js"
+  ]
+}
